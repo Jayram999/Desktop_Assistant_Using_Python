@@ -3,7 +3,7 @@
 How to run:
 1. Create a new virtual environment
 
-      conda create -n assistant1 python=3.8
+      conda create -n assistant1 python=3.10
 
 2. Checkout the created virtual environment
 
